@@ -1,0 +1,3 @@
+FILE_POST_URL = http://47.97.79.15:80/das/add		#文件上传的url接口配置
+AUTH_POST_URL = http://47.97.79.15:80/das/login		#身份认证的url接口配置
+DB_POST_URL = http://47.97.79.15:80/das/check		#数据库查重的url接口配置
